@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://symans.com.pk/sitemap.xml
